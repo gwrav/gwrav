@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there, I'm Gaurav Joshi 👋</h1>
-<p align="center">a curious learner who started with C++ and now building cool stuff with Web Development 🚀  
+<p align="center">A curious learner who started with C++ and now building cool stuff with Web Development 🚀  
 Currently exploring the MERN Stack (MongoDB, Express.js, React.js, Node.js) and loving the full-stack journey.  
 Passionate about clean UI, user-first design, and always down to try new tech and tools. 💫</p>
 
