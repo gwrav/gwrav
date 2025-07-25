@@ -9,7 +9,7 @@ Passionate about clean UI, user-first design, and always down to try new tech an
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff"/>
-<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff"/>
